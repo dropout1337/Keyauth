@@ -69,5 +69,5 @@ if option == 4:
         license_key=pwinput.pwinput("License: ")
     )
 
-print(reply, client.user)
+print(client.user)
 ```
