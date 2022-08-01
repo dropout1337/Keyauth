@@ -9,9 +9,10 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     
 setup(
     name="keyauth",
-    version="1.0.2",
+    version="1.0.3",
     description="Keyauth.win API Wrapper for python3",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     author="dropout",
     author_email="dropout@fbi.ac",
     url="https://github.com/dropout1337",

@@ -1,23 +1,7 @@
 
 ---------------------------------------
-  
-<br/>
-<div align="center">
-  <a href="https://github.com/dropout1337/Keyauth">
-    <img src="https://cdn.keyauth.uk/front/assets/img/favicon.png" alt="Logo" width="120" height="120">
-  </a>
-  
-  <h2 align="center">Keyauth API Wrapper</h3>
-
-  <p align="center">
-    KeyAuth is an Open-source authentication system with cloud-hosted subscriptions available as well.
-    <br />
-    <br />
-    <a href="https://github.com/dropout1337/Telegram-AdBot/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/dropout1337/Telegram-AdBot/issues">Request Feature</a>
-  </p>
-</div>
+# Keyauth API Wrapper  
+- KeyAuth is an Open-source authentication system with cloud-hosted subscriptions available as well.
 
 ---------------------------------------
 
