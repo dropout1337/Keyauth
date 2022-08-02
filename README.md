@@ -20,7 +20,7 @@ client = Keyauth(
     owner_id="your account id",
     secret="application secret",
     version="current version",
-    file_hash=misc.get_checksum()
+    file_hash=None
 )
 
 print(client.application)
@@ -55,3 +55,5 @@ if option == 4:
 
 print(client.user)
 ```
+
+- Please note that file hash checking isnt needed on python applications. (But you can still use if ofcourse)
